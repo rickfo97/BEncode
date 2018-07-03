@@ -1,0 +1,23 @@
+{
+  "name": "rickfo/BEncode",
+  "type": "library",
+  "description" :"BEncode encoder and decoder",
+  "keywords": ["BEncode", "Bittorrent", "Parsing"],
+  "homepage": "https://github.com/rickfo97/BEncode",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rickardh Forslund",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Rickfo\\BEncode\\": "src",
+      "Rickfo\\BEncode\\Test\\": "tests"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "7.2.6"
+  }
+}
