@@ -1,5 +1,5 @@
 {
-  "name": "rickfo/BEncode",
+  "name": "rickfo/b-encode",
   "type": "library",
   "description" :"BEncode encoder and decoder",
   "keywords": ["BEncode", "Bittorrent", "Parsing"],
