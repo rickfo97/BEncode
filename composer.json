@@ -3,7 +3,7 @@
   "type": "library",
   "description" :"BEncode encoder and decoder",
   "keywords": ["BEncode", "Bittorrent", "Parsing"],
-  "homepage": "https://github.com/rickfo97/BEncode",
+  "homepage": "https://github.com/rickfo97/b-encode",
   "license": "MIT",
   "authors": [
     {
